@@ -1,16 +1,4 @@
-{
 
-    "input" : "",
-    "save": true,
-    "output" : "",
-    "dark_on_light" : true,
-    
-    "deskew": {
-        "enable": true,
-        "threshold": 100
-    },
-  
-    "letters":{
         "min_width" : 1,
         "min_height" : 1,
         "max_width": 0.1,
